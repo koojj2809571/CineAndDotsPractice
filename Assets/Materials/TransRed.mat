@@ -35,7 +35,7 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 3
     - _Cull: 2
-    - _Cutoff: 0.374
+    - _Cutoff: 0.7
     - _DstBlend: 0
     - _DstBlendAlpha: 1
     - _SrcBlend: 2
@@ -43,8 +43,8 @@ Material:
     - _Surface: 1
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 0, g: 0.6476085, b: 1, a: 0.6745098}
-    - _Color: {r: 0, g: 0.6476085, b: 1, a: 0.6745098}
+    - _BaseColor: {r: 1, g: 0, b: 0, a: 0.8039216}
+    - _Color: {r: 1, g: 0, b: 0, a: 0.8039216}
   m_BuildTextureStacks: []
 --- !u!114 &6714358021524849425
 MonoBehaviour:
